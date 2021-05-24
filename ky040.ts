@@ -1,4 +1,4 @@
-//% color=#1874CD weight=80 icon="\uf0d2" block="B_旋转编码器"
+//% weight=20 color=#Ffbc11 icon="\uf0d2" block="B_旋转编码器"
 namespace RotaryEncoder {
 
     /**
