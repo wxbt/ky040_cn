@@ -1,0 +1,19 @@
+{
+    "name": "ky040",
+    "version": "1.1.0",
+    "description": "KY040旋转编码器的makecode中文模块",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "enums.d.ts",
+        "ky040.cpp",
+        "ky040.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
